@@ -1,3 +1,3 @@
 # Singapore-Housing-Prediction
-Condo 
-HDB
+I. Condo Pricing <br>
+II. HDB Pricing <br>

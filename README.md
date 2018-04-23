@@ -1,4 +1,3 @@
 # SG Housing Prediction
-I. Condo Pricing <br>
-II. HDB Pricing <br>
-
+Condo Pricing <br> 
+Data Source: Public data on URA <br> 
